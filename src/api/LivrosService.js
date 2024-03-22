@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://api2-snowy.vercel.app"
+const BASE_URL = "https://desafio-5-api.vercel.app"
 
 export class LivrosService{
     static getLivros(){
